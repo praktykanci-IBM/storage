@@ -2,6 +2,10 @@ started_by: wiktorsiwecki
 started_on: 14.11.2024, 11:28 CET
 repo: praktykanci-IBM/test-repo
 type: negative
-extracted_by: ""
-extracted_on: ""
-users: []
+extracted_by: wiktorsiwecki
+extracted_on: 14.11.2024, 11:28 CET
+users:
+    - name: praktykant-test
+      state: pending
+      validated_on: ""
+      validated_by: ""
