@@ -6,6 +6,6 @@ extracted_by: wiktorsiwecki
 extracted_on: 14.11.2024, 11:28 CET
 users:
     - name: praktykant-test
-      state: pending
-      validated_on: ""
-      validated_by: ""
+      state: rejected
+      validated_on: 14.11.2024, 11:30 CET
+      validated_by: wiktorsiwecki
