@@ -9,3 +9,10 @@ users:
       state: rejected
       validated_on: 14.11.2024, 11:30 CET
       validated_by: wiktorsiwecki
+executed_by: wiktorsiwecki
+executed_on: 14.11.2024, 11:30 CET
+userschanged:
+    - name: praktykant-test
+      state: rejected
+      validated_on: 14.11.2024, 11:30 CET
+      validated_by: wiktorsiwecki
