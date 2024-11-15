@@ -6,9 +6,9 @@ extracted_by: MIKK0Z
 extracted_on: 15.11.2024, 14:27 CET
 users:
     - name: praktykant-test
-      state: pending
-      validated_on: ""
-      validated_by: ""
+      state: rejected
+      validated_on: 15.11.2024, 14:28 CET
+      validated_by: MIKK0Z
 executed_by: ""
 executed_on: ""
 userschanged: []
