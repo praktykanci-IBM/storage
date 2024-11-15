@@ -9,6 +9,10 @@ users:
       state: rejected
       validated_on: 15.11.2024, 14:28 CET
       validated_by: MIKK0Z
-executed_by: ""
-executed_on: ""
-userschanged: []
+executed_by: MIKK0Z
+executed_on: 15.11.2024, 14:28 CET
+userschanged:
+    - name: praktykant-test
+      state: rejected
+      validated_on: 15.11.2024, 14:28 CET
+      validated_by: MIKK0Z
