@@ -2,9 +2,13 @@ started_by: MIKK0Z
 started_on: 15.11.2024, 14:27 CET
 repo: praktykanci-IBM/test-repo
 type: positive
-extracted_by: ""
-extracted_on: ""
-users: []
+extracted_by: MIKK0Z
+extracted_on: 15.11.2024, 14:27 CET
+users:
+    - name: praktykant-test
+      state: pending
+      validated_on: ""
+      validated_by: ""
 executed_by: ""
 executed_on: ""
 userschanged: []
