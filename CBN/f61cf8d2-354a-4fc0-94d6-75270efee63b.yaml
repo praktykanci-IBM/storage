@@ -10,7 +10,7 @@ users:
       validated_on: ""
       validated_by: ""
     - name: praktykant-test
-      state: pending
+      state: approved
       validated_on: ""
       validated_by: ""
     - name: zwx-tech
