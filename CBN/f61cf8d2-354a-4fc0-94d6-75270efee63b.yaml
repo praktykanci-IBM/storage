@@ -14,7 +14,7 @@ users:
       validated_on: ""
       validated_by: ""
     - name: zwx-tech
-      state: pending
+      state: approved
       validated_on: ""
       validated_by: ""
 executed_by: ""
