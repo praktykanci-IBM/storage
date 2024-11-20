@@ -2,9 +2,30 @@ started_by: wiktorsiwecki
 started_on: 20.11.2024, 10:45 CET
 org: praktykanci-IBM
 type: negative
-extracted_by: ""
-extracted_on: ""
-users: []
+extracted_by: wiktorsiwecki
+extracted_on: 20.11.2024, 10:46 CET
+users:
+    - name: 6tab9
+      state: pending
+      list_of_accesses:
+        - access_to: repository github.RepositoryContent{Type:"dir", Size:0, Name:"test-repo", Path:"user-access-records/praktykanci-IBM/test-repo", SHA:"6dadc8e212f0690093a35ac114ba9876df7f0b94", URL:"https://api.github.com/repos/praktykanci-IBM/storage/contents/user-access-records/praktykanci-IBM/test-repo?ref=main", GitURL:"https://api.github.com/repos/praktykanci-IBM/storage/git/trees/6dadc8e212f0690093a35ac114ba9876df7f0b94", HTMLURL:"https://github.com/praktykanci-IBM/storage/tree/main/user-access-records/praktykanci-IBM/test-repo"}
+          justification: test
+      validated_on: ""
+      validated_by: ""
+    - name: praktykant-test
+      state: pending
+      list_of_accesses:
+        - access_to: repository github.RepositoryContent{Type:"dir", Size:0, Name:"test-repo", Path:"user-access-records/praktykanci-IBM/test-repo", SHA:"6dadc8e212f0690093a35ac114ba9876df7f0b94", URL:"https://api.github.com/repos/praktykanci-IBM/storage/contents/user-access-records/praktykanci-IBM/test-repo?ref=main", GitURL:"https://api.github.com/repos/praktykanci-IBM/storage/git/trees/6dadc8e212f0690093a35ac114ba9876df7f0b94", HTMLURL:"https://github.com/praktykanci-IBM/storage/tree/main/user-access-records/praktykanci-IBM/test-repo"}
+          justification: test
+      validated_on: ""
+      validated_by: ""
+    - name: zwx-tech
+      state: pending
+      list_of_accesses:
+        - access_to: repository github.RepositoryContent{Type:"dir", Size:0, Name:"test-repo", Path:"user-access-records/praktykanci-IBM/test-repo", SHA:"6dadc8e212f0690093a35ac114ba9876df7f0b94", URL:"https://api.github.com/repos/praktykanci-IBM/storage/contents/user-access-records/praktykanci-IBM/test-repo?ref=main", GitURL:"https://api.github.com/repos/praktykanci-IBM/storage/git/trees/6dadc8e212f0690093a35ac114ba9876df7f0b94", HTMLURL:"https://github.com/praktykanci-IBM/storage/tree/main/user-access-records/praktykanci-IBM/test-repo"}
+          justification: test
+      validated_on: ""
+      validated_by: ""
 executed_by: ""
 executed_on: ""
 userschanged: []
