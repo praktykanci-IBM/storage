@@ -6,7 +6,7 @@ extracted_by: wiktorsiwecki
 extracted_on: 20.11.2024, 15:56 CET
 users:
     - name: praktykant-test
-      state: pending
+      state: rejected
       list_of_accesses:
         - access_type: repo
           access_to: test-repo
