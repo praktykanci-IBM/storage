@@ -3,30 +3,35 @@ started_on: 20.11.2024, 10:45 CET
 org: praktykanci-IBM
 type: negative
 extracted_by: wiktorsiwecki
-extracted_on: 20.11.2024, 10:52 CET
+extracted_on: 20.11.2024, 10:58 CET
 users:
     - name: 6tab9
       state: pending
       list_of_accesses:
-        - access_to: repository test-repo
+        - accesstype: repository
+          access_to: test-repo
           justification: test
       validated_on: ""
       validated_by: ""
     - name: praktykant-test
       state: pending
       list_of_accesses:
-        - access_to: repository test-repo
+        - accesstype: repository
+          access_to: test-repo
           justification: test
-        - access_to: organization praktykanci-IBM
+        - accesstype: organization
+          access_to: praktykanci-IBM
           justification: test
-        - access_to: team test-team
+        - accesstype: team
+          access_to: test-team
           justification: test
       validated_on: ""
       validated_by: ""
     - name: zwx-tech
       state: pending
       list_of_accesses:
-        - access_to: repository test-repo
+        - accesstype: repository
+          access_to: test-repo
           justification: test
       validated_on: ""
       validated_by: ""
