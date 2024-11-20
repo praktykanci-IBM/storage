@@ -3,7 +3,7 @@ started_on: 20.11.2024, 10:45 CET
 org: praktykanci-IBM
 type: negative
 extracted_by: wiktorsiwecki
-extracted_on: 20.11.2024, 10:49 CET
+extracted_on: 20.11.2024, 10:52 CET
 users:
     - name: 6tab9
       state: pending
@@ -16,6 +16,10 @@ users:
       state: pending
       list_of_accesses:
         - access_to: repository test-repo
+          justification: test
+        - access_to: organization praktykanci-IBM
+          justification: test
+        - access_to: team test-team
           justification: test
       validated_on: ""
       validated_by: ""
