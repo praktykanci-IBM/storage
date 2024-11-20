@@ -6,7 +6,7 @@ extracted_by: wiktorsiwecki
 extracted_on: 20.11.2024, 10:58 CET
 users:
     - name: 6tab9
-      state: pending
+      state: rejected
       list_of_accesses:
         - accesstype: repository
           access_to: test-repo
