@@ -28,7 +28,7 @@ users:
       validated_on: ""
       validated_by: ""
     - name: zwx-tech
-      state: pending
+      state: approved
       list_of_accesses:
         - access_type: repository
           access_to: test-repo
