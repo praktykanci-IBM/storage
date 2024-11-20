@@ -14,7 +14,7 @@ users:
       validated_on: ""
       validated_by: ""
     - name: praktykant-test
-      state: pending
+      state: rejected
       list_of_accesses:
         - accesstype: repository
           access_to: test-repo
