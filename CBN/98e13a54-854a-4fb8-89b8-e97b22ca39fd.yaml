@@ -2,9 +2,17 @@ started_by: wiktorsiwecki
 started_on: 21.11.2024, 09:53 CET
 org: praktykanci-IBM
 type: negative
-extracted_by: ""
-extracted_on: ""
-users: []
+extracted_by: wiktorsiwecki
+extracted_on: 21.11.2024, 10:06 CET
+users:
+    - name: praktykant-test
+      state: pending
+      list_of_accesses:
+        - access_type: team
+          access_to: test-team
+          justification: test
+      validated_on: ""
+      validated_by: ""
 executed_by: ""
 executed_on: ""
 userschanged: []
