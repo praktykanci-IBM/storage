@@ -6,7 +6,7 @@ extracted_by: wiktorsiwecki
 extracted_on: 21.11.2024, 10:06 CET
 users:
     - name: praktykant-test
-      state: pending
+      state: rejected
       list_of_accesses:
         - access_type: team
           access_to: test-team
