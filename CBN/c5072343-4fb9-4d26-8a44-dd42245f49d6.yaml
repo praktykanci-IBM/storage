@@ -26,6 +26,15 @@ users:
       validated_on: ""
       validated_by: ""
       manager: wiktorsiwecki
-executed_by: ""
-executed_on: ""
-userschanged: []
+executed_by: MIKK0Z
+executed_on: 22.11.2024, 10:33 CET
+userschanged:
+    - name: praktykant-test
+      state: pending
+      list_of_accesses:
+        - access_type: team
+          access_to: dev-team
+          justification: test
+      validated_on: ""
+      validated_by: ""
+      manager: wiktorsiwecki
