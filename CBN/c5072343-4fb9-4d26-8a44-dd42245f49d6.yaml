@@ -2,9 +2,30 @@ started_by: MIKK0Z
 started_on: 22.11.2024, 10:32 CET
 org: praktykanci-IBM
 type: positive
-extracted_by: ""
-extracted_on: ""
-users: []
+extracted_by: MIKK0Z
+extracted_on: 22.11.2024, 10:32 CET
+users:
+    - name: MonkeMaim
+      state: pending
+      list_of_accesses:
+        - access_type: org
+          access_to: praktykanci-IBM
+          justification: test
+        - access_type: team
+          access_to: dev-team
+          justification: test
+      validated_on: ""
+      validated_by: ""
+      manager: wiktorsiwecki
+    - name: praktykant-test
+      state: pending
+      list_of_accesses:
+        - access_type: team
+          access_to: dev-team
+          justification: test
+      validated_on: ""
+      validated_by: ""
+      manager: wiktorsiwecki
 executed_by: ""
 executed_on: ""
 userschanged: []
