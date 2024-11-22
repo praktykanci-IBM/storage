@@ -18,7 +18,7 @@ users:
       validated_by: ""
       manager: wiktorsiwecki
     - name: praktykant-test
-      state: pending
+      state: approved
       list_of_accesses:
         - access_type: team
           access_to: dev-team
