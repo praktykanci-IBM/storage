@@ -6,7 +6,7 @@ extracted_by: MIKK0Z
 extracted_on: 22.11.2024, 09:58 CET
 users:
     - name: praktykant-test
-      state: pending
+      state: approved
       list_of_accesses:
         - access_type: org
           access_to: praktykanci-IBM
